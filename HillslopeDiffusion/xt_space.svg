@@ -339,9 +339,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.1208164"
      inkscape:cx="176.42884"
-     inkscape:cy="325.08859"
+     inkscape:cy="360.77686"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g11392"
      showgrid="false"
      units="cm"
      showguides="false"
@@ -399,7 +399,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -517,7 +517,9 @@
            y="648.17053"
            x="205.82912"
            id="tspan7268-1"
-           sodipodi:role="line">i,n+1 </tspan></text>
+           sodipodi:role="line">i,<tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4257"> n+1</tspan></tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7266-6-8"
@@ -529,7 +531,9 @@
            y="763.88489"
            x="205.71855"
            id="tspan7268-1-7"
-           sodipodi:role="line">i,n-1 </tspan></text>
+           sodipodi:role="line">i,<tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4259"> n-1</tspan></tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7266-9"
@@ -541,7 +545,9 @@
            y="698.52777"
            x="253.68625"
            id="tspan7268-2"
-           sodipodi:role="line">i+1,n</tspan></text>
+           sodipodi:role="line"><tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4261">i+1</tspan>,n</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7266-9-0"
@@ -553,7 +559,9 @@
            y="698.17059"
            x="152.00624"
            id="tspan7268-2-2"
-           sodipodi:role="line">i-1,n</tspan></text>
+           sodipodi:role="line"><tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4263">i-1</tspan>,n</tspan></text>
       <ellipse
          ry="3.5510387"
          rx="3.6825585"
